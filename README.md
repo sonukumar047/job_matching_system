@@ -34,8 +34,7 @@ The Job Matching System is a Flask-based backend for a job matching platform. It
   - Add a skill set to a job posting.
 
 ## Entity-Relationship Diagram (ER Diagram)
-
-Insert an image or diagram here showcasing the relationships between entities in the system.
+<img width="663" alt="Screenshot 2023-12-01 140422" src="https://github.com/sonukumar047/job_matching_system/assets/121346782/678759e9-8035-4134-a5a2-5f6f133ac3b6">
 
 ## Getting Started
 
