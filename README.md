@@ -44,6 +44,11 @@ Insert an image or diagram here showcasing the relationships between entities in
 - Python
 - MongoDB
 
+## Run the Flask Application:
+
+- Execute python app.py to start the Flask application.
+- The server will run at http://localhost:5000/ by default.
+
 ### Installation
 
 1. Clone the repository:
