@@ -49,5 +49,5 @@ Insert an image or diagram here showcasing the relationships between entities in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/job-matching-system.git
+   git clone https://github.com/sonukumar047/job_matching_system.git
    cd job-matching-system
